@@ -1,8 +1,8 @@
 # The World in One Page — 27 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/competitions/news-image-20261127)
-[![Prize $100](https://img.shields.io/badge/prize-%24100-brightgreen)](https://make.fun/competitions/news-image-20261127)
-[![Status: Open](https://img.shields.io/badge/status-open-blue)](https://make.fun/competitions/news-image-20261127)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/heavense3nt/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/heavense3nt/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 One image that sums up the world's news on **Friday, 27 November 2026** — a
 dense one-page newspaper front page, drawn entirely in code.
